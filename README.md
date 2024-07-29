@@ -52,6 +52,7 @@ I'm actively learning and sharing my knowledge about Kubernetes, including its v
 - [**Kubernetes logging, debugging and monitoring**](https://medium.com/@harishpillai1994/kubernetes-logging-debugging-and-monitoring-06e9d8a244ef)
 - [**Rolling Update and Recreate Deployment strategy in Kubernetes? How to Rollback Deployments?**](https://medium.com/@harishpillai1994/rolling-update-and-recreate-deployment-strategy-in-kubernetes-how-to-rollback-deployments-34873c2a929b)
 - [**K8s Jobs and CronJobs**](https://medium.com/@harishpillai1994/k8s-jobs-and-cronjobs-8658e112cf82)
+- [**Services and Ingress in Kubernetes**](https://medium.com/@harishpillai1994/services-and-ingress-in-kubernetes-aa086dfc9f07)
 
 ---
 
