@@ -2,7 +2,7 @@
 
 ![Coding Animation](https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif)
 
-I'm a passionate **Software Engineer** with over 4 years of experience specializing in cloud technologies and automation. My core competencies include working with **Golang** and **Python**, along with a strong background in **Kubernetes**, **Docker**, and **Argo Workflow**. I'm dedicated to designing scalable, secure infrastructure solutions and optimizing CI/CD pipelines to enhance system efficiency and reduce operational costs.
+I'm a passionate **Software Engineer** with over 4 years of experience specializing in Cloud Technologies and Backend Security. My core competencies include working with **Golang** and **Python**, along with a strong background in **Kubernetes**, **Docker**, and **Argo Workflow**. I'm dedicated to designing scalable, secure infrastructure solutions and optimizing CI/CD pipelines to enhance system efficiency and reduce operational costs.
 
 ---
 
