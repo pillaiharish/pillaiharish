@@ -33,6 +33,7 @@ I build practical systems around local and production-style AI workflows: servin
 ![GitHub profile details](./profile-summary-card-output/github_dark/0-profile-details.svg)
 
 ![GitHub stats](./profile-summary-card-output/github_dark/3-stats.svg)
+
 ![Top repository languages](./profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
 ## Writing
